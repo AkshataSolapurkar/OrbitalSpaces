@@ -3,7 +3,7 @@ import React from "react";
 export function Getstarted(prop){
     return(
         <>
-        <h1 onClick={prop.dontgetstarted}>get started</h1>
+        <h1>get started</h1>
         </>
     )
 }
